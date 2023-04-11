@@ -5,7 +5,6 @@ import { AppWrap } from '../../wrapper';
 import { images } from '../../constants';
 import './Header.scss';
 
-console.log(images);
 
 const scaleVariants = {
   whileInView: {
