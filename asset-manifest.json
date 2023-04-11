@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/react-00-portfolio-site/static/css/main.4625cc76.css",
-    "main.js": "/react-00-portfolio-site/static/js/main.76ce7d05.js",
+    "main.css": "/react-00-portfolio-site/static/css/main.71263501.css",
+    "main.js": "/react-00-portfolio-site/static/js/main.cd701e96.js",
     "static/media/about04.png": "/react-00-portfolio-site/static/media/about04.fa7b3a72ed32b0e25bfb.png",
     "static/media/about02.png": "/react-00-portfolio-site/static/media/about02.7a3df03410ee756268ec.png",
     "static/media/about01.png": "/react-00-portfolio-site/static/media/about01.080509de05322b7aafda.png",
@@ -20,6 +20,7 @@
     "static/media/node.png": "/react-00-portfolio-site/static/media/node.8683d89cf78ffae3d1f7.png",
     "static/media/cpp.png": "/react-00-portfolio-site/static/media/cpp.9002a804bbfa0354d0b8.png",
     "static/media/graphql.png": "/react-00-portfolio-site/static/media/graphql.0372057049181c5de51a.png",
+    "static/media/circle.png": "/react-00-portfolio-site/static/media/circle.0ec5e545811cecae482b.png",
     "static/media/amazon.png": "/react-00-portfolio-site/static/media/amazon.0a8be1f53138b5c52456.png",
     "static/media/mobile.png": "/react-00-portfolio-site/static/media/mobile.145d9ce0157a56f8fcd8.png",
     "static/media/email.png": "/react-00-portfolio-site/static/media/email.37b9e890eea501421fbf.png",
@@ -28,12 +29,11 @@
     "static/media/git.png": "/react-00-portfolio-site/static/media/git.a54d3fa44e02f2f61e69.png",
     "static/media/skype.png": "/react-00-portfolio-site/static/media/skype.c8d7ee175da5b4c8a8ab.png",
     "index.html": "/react-00-portfolio-site/index.html",
-    "static/media/circle.svg": "/react-00-portfolio-site/static/media/circle.134eeeb1e58895b892195fe8ed63bc9f.svg",
-    "main.4625cc76.css.map": "/react-00-portfolio-site/static/css/main.4625cc76.css.map",
-    "main.76ce7d05.js.map": "/react-00-portfolio-site/static/js/main.76ce7d05.js.map"
+    "main.71263501.css.map": "/react-00-portfolio-site/static/css/main.71263501.css.map",
+    "main.cd701e96.js.map": "/react-00-portfolio-site/static/js/main.cd701e96.js.map"
   },
   "entrypoints": [
-    "static/css/main.4625cc76.css",
-    "static/js/main.76ce7d05.js"
+    "static/css/main.71263501.css",
+    "static/js/main.cd701e96.js"
   ]
 }
