@@ -23,7 +23,7 @@ const images = {
   about03: require('../assets/about03.png'),
   about04: require('../assets/about04.png'),
   profile: require('../assets/profile.png'),
-  circle: require('../assets/circle.svg'),
+  circle: require('../assets/circle.png'),
   logo: require('../assets/logo.png'),
   adidas: require('../assets/adidas.png'),
   amazon: require('../assets/amazon.png'),
