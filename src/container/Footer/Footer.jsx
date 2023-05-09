@@ -42,14 +42,14 @@ const Footer = () => {
       <div className="app__footer-cards">
         <div className="app__footer-card ">
           <img src={images.email} alt="email" />
-          <a href="mailto:hello@@mati.com" className="p-text">
-            hello@mati.com
+          <a href="mailto:matwojcikowski@gmail.com" className="p-text">
+            matwojcikowski@gmail.com
           </a>
         </div>
         <div className="app__footer-card">
           <img src={images.mobile} alt="phone" />
-          <a href="tel:+1 (123) 456-7890" className="p-text">
-            +1 (123) 456-7890
+          <a href="tel:+48 512-18-77-66" className="p-text">
+            +48 512-18-77-66
           </a>
         </div>
       </div>

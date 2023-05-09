@@ -9,12 +9,12 @@ const SocialMedia = () => (
         <BsGithub />
       </div>
     </a>
-    <a href="http://matflix.com.pl">
+    <a href="https://www.linkedin.com/in/mateusz-w%C3%B3jcikowski-5554aa264/">
       <div>
         <BsLinkedin />
       </div>
     </a>
-    <a href="http://matflix.com.pl">
+    <a href="https://www.linkedin.com/in/mateusz-w%C3%B3jcikowski-5554aa264/">
       <div>
         <BsTwitch />
       </div>
